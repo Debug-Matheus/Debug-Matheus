@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá Devs!+Me+Chamo+Matheus.;Seja+Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+Devs!+Me+Chamo+Matheus.;Seja+Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 # [About me](https://www.linkedin.com/in/matheus-vasconcelos-da-silva-32450a313/) 
 Atualmente estou em transição de carreira, saindo da área de contabilidade para a de tecnologia.
