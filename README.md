@@ -4,7 +4,7 @@
 Atualmente estou em transição de carreira, saindo da área de contabilidade para a de tecnologia.
 Comecei em janeiro de 2024 nos estudos da área, realizando um curso voltado para lógica de programação, e posteriormente iniciando na faculdade, (Estácio), Análise e Densenvolvimento de Sistemas, onde estou cursando. 
 
-Meu Objetivo com a programação é tornar-se um desenvolvedor back-end, focando nas linguagens e tecnologia de python, java, javascript, html, php, banco de dados, assim como participando de diversos projetos pra ganhar cada vez mais experiência na área, crescendo no meu  desenvolvimento profissional.
+Meu Objetivo com a programação é tornar-se um desenvolvedor back-end, focando nas linguagens e tecnologia de python, java, C# e php, assim como participando de diversos projetos pra ganhar cada vez mais experiência na área, crescendo no meu  desenvolvimento profissional.
 
 Além disso, obter como finalidade de consquista, trabalhar no exterior. 
 
