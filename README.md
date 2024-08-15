@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+Devs!+Me+Chamo+Matheus.;Seja+Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-# [About me](https://www.linkedin.com/in/matheus-vasconcelos-da-silva-32450a313/) 
+# [Sobre mim](https://www.linkedin.com/in/matheus-vasconcelos-da-silva-32450a313/) 
 Atualmente estou em transição de carreira, saindo da área de contabilidade para a de tecnologia.
 Comecei em janeiro de 2024 nos estudos da área, realizando um curso voltado para lógica de programação, e posteriormente iniciando na faculdade, (Estácio), Análise e Densenvolvimento de Sistemas, onde estou cursando. 
 
