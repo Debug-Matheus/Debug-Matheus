@@ -4,9 +4,9 @@
 Atualmente estou em transição de carreira, saindo da área de contabilidade para a de tecnologia.
 Comecei em janeiro de 2024 nos estudos da área, realizando um curso voltado para lógica de programação, e posteriormente iniciando na faculdade, (Estácio), Análise e Densenvolvimento de Sistemas, onde estou cursando. 
 
-Meu Objetivo com a programação é tornar-se um desenvolvedor back-end, focando nas linguagens e tecnologia de python, java, C#, e php, assim como participando de diversos projetos pra ganhar cada vez mais experiência na área, crescendo no meu  desenvolvimento profissional.
+Meu Objetivo com a programação é tornar-se um desenvolvedor Full Stack, focando nas linguagens e tecnologia de Python, Java, php, JavaScrip, Html e Css, assim como participando de diversos projetos pra ganhar cada vez mais experiência na área, crescendo no meu  desenvolvimento profissional.
 
-Além disso, obter como finalidade de consquista, trabalhar na europa. 
+Além disso, obter como finalidade de consquista, trabalhar na exterior. 
 
 # Technology in Development
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,9 +19,6 @@ Além disso, obter como finalidade de consquista, trabalhar na europa.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Ingles](https://img.shields.io/badge/Inglês-39E09B?style=for-the-badge&logo=&logoColor=white)
 
 
