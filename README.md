@@ -35,8 +35,6 @@ Além disso, obter como finalidade de consquista, trabalhar no exterior.
 
 # Operating System Experience
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 # Git statisc
 <div>
