@@ -5,7 +5,7 @@ Comecei em janeiro de 2024 nos estudos da área, realizando um curso voltado par
 
 Meu Objetivo com a programação é tornar-se um desenvolvedor Full Stack, focando nas linguagens e tecnologia de Python, Java, JavaScript, Html e Css, e seus frameworks, assim como participando de diversos projetos pra ganhar cada vez mais experiência na área, crescendo no meu  desenvolvimento profissional.
 
-Além disso, obter como finalidade de consquista, trabalhar na exterior. 
+Além disso, obter como finalidade de consquista, trabalhar no exterior. 
 
 # Tecnologia em Desenvolvimento
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
