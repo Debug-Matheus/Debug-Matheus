@@ -3,7 +3,7 @@
 # [Sobre mim](https://www.linkedin.com/in/matheus-vasconcelos-da-silva-32450a313/) 
 Comecei em janeiro de 2024 nos estudos da área, realizando um curso voltado para lógica de programação, e posteriormente iniciando na faculdade, (Estácio), Análise e Densenvolvimento de Sistemas, onde estou cursando. 
 
-Meu Objetivo com a programação é tornar-se um desenvolvedor Full Stack, focando nas linguagens e tecnologia de Python, Java, JavaScript, Html e Css, e seus frameworks, assim como participando de diversos projetos pra ganhar cada vez mais experiência na área, crescendo no meu  desenvolvimento profissional.
+Meu Objetivo com a programação é tornar-se um desenvolvedor Full Stack, focando nas linguagens e tecnologia de Python, Java, JavaScript, Html e Css, e seus frameworks, assim como realizando projetos pra ganhar cada vez mais experiência na área, crescendo no meu  desenvolvimento profissional.
 
 Além disso, obter como finalidade de consquista, trabalhar no exterior. 
 
