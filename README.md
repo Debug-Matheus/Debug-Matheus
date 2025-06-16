@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+Devs!+Me+Chamo+Matheus.;Sejam+Bem-vindos+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 # [Sobre mim](https://www.linkedin.com/in/matheus-vasconcelos-da-silva-32450a313/) 
-Comecei em janeiro de 2024 nos estudos da área, realizando um curso voltado para lógica de programação, e posteriormente iniciando na faculdade, (Estácio), Análise e Densenvolvimento de Sistemas, onde estou cursando. 
+Comecei em janeiro de 2024 nos estudos da área de T.I, realizando um curso voltado para lógica de programação, e posteriormente iniciando na faculdade, (Estácio), Análise e Densenvolvimento de Sistemas, onde estou cursando. 
 
 Meu Objetivo com a programação é tornar-se um desenvolvedor Full Stack, focando nas linguagens e tecnologia de Python, Java, JavaScript, Html e Css, e seus frameworks, assim como realizando projetos para ganhar cada vez mais experiência na área, crescendo no meu  desenvolvimento profissional.
 
