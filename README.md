@@ -46,8 +46,7 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
   <a href="https://github.com/Debug-Matheus">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Debug-Matheus&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 
-  <a href="https://github.com/Debug-Matheus">
-  <img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Debug-Matheus&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  
  </div> 
 
 # Connect with me
