@@ -47,7 +47,7 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 # Git statisc
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
 
   <!-- Estatísticas -->
   <a href="https://github.com/Debug-Matheus">
