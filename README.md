@@ -46,18 +46,24 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 # Operating System Experience
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-# Git statisc
+# Estatísticas do GitHub
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
   <!-- Estatísticas -->
-  <a href="https://github.com/Debug-Matheus">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Debug-Matheus&theme=transparent&bg_color=003973&border_color=00E5FF&show_icons=true&icon_color=00E5FF&title_color=ffffff&text_color=ffffff"/>
-  </a>
+  <div>
+    <p align="center"><b>📊 Estatísticas Gerais</b></p>
+    <a href="https://github.com/Debug-Matheus">
+      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Debug-Matheus&theme=transparent&bg_color=003973&border_color=00E5FF&show_icons=true&icon_color=00E5FF&title_color=ffffff&text_color=ffffff"/>
+    </a>
+  </div>
 
   <!-- Linguagens mais usadas -->
-  <a href="https://github.com/Debug-Matheus">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debug-Matheus&layout=compact&theme=transparent&bg_color=003973&border_color=00E5FF&title_color=ffffff&text_color=ffffff"/>
-  </a>
+  <div>
+    <p align="center"><b>💻 Tecnologias Mais Utilizadas</b></p>
+    <a href="https://github.com/Debug-Matheus">
+      <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debug-Matheus&layout=compact&theme=transparent&bg_color=003973&border_color=00E5FF&title_color=ffffff&text_color=ffffff"/>
+    </a>
+  </div>
 
 </div>
 
