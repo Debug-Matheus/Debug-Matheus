@@ -1,8 +1,13 @@
 <!-- Banner animado topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Matheus%20Vasconcelos&fontAlign=50&fontAlignY=35&fontSize=40&color=0:0a0a0a,100:111827&fontColor=00E5FF&desc=Full%20Stack%20em%20formação&descAlign=50&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Matheus%20Vasconcelos&fontAlign=50&fontAlignY=35&fontSize=40&color=0:003973,100:00E5FF&fontColor=ffffff&desc=Full%20Stack%20em%20formação&descAlign=50&descAlignY=60&animation=fadeIn" />
+
+<!-- Fundo gradiente azul -->
+<div style="background: linear-gradient(135deg, #003973, #00E5FF); padding: 30px; border-radius: 10px; color: white;">
 
 <!-- Typing animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+Devs!+Eu+sou+o+Matheus.;Bem-vindos+ao+meu+GitHub!;Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+Devs!+Eu+sou+o+Matheus.;Bem-vindos+ao+meu+GitHub!;Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</p>
 
 # [Objetivos Profissionais](https://www.linkedin.com/in/matheus-vasconcelos-da-silva-32450a313/) 
 Comecei meus estudos na área de T.I. em janeiro de 2024, iniciando com um curso voltado para lógica de programação. Em seguida, ingressei na faculdade de Análise e Desenvolvimento de Sistemas pela Estácio, onde estou atualmente cursando.
@@ -44,7 +49,7 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 # Git statisc
 <div>
   <a href="https://github.com/Debug-Matheus">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Debug-Matheus&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Debug-Matheus&theme=transparent&bg_color=003973&border_color=00E5FF&show_icons=true&icon_color=00E5FF&title_color=ffffff&text_color=ffffff"/>
  </div> 
 
 # Connect with me
@@ -54,7 +59,9 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55081985687741)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:202404574245@alunos.estacio.br)
 
+</div>
+
 <!-- Banner animado rodapé -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0a0a0a,100:111827&fontColor=00E5FF&animation=fadeIn&text=Obrigado%20pela%20visita!&fontSize=28&fontAlign=50&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:003973,100:00E5FF&fontColor=ffffff&animation=fadeIn&text=Obrigado%20pela%20visita!&fontSize=28&fontAlign=50&fontAlignY=35" />
 </p>
