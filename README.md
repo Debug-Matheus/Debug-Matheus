@@ -46,19 +46,21 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 # Operating System Experience
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-## 📈 Estatísticas do GitHub
+# Git statisc
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
 
-<div align="center">
-
+  <!-- Estatísticas -->
   <a href="https://github.com/Debug-Matheus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debug-Matheus&show_icons=true&theme=transparent&bg_color=003973&border_color=00E5FF&icon_color=00E5FF&title_color=ffffff&text_color=ffffff&locale=pt-br&custom_title=📊 Estatísticas Gerais" />
+    <img width="420" height="220" src="https://github-readme-stats.vercel.app/api?username=Debug-Matheus&theme=transparent&bg_color=003973&border_color=00E5FF&show_icons=true&icon_color=00E5FF&title_color=ffffff&text_color=ffffff&custom_title=📊%20Estatísticas%20Gerais"/>
   </a>
-  
+
+  <!-- Linguagens mais usadas -->
   <a href="https://github.com/Debug-Matheus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debug-Matheus&layout=compact&theme=transparent&bg_color=003973&border_color=00E5FF&title_color=ffffff&text_color=ffffff&locale=pt-br&custom_title=💻 Tecnologias Mais Utilizadas" />
+    <img width="420" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debug-Matheus&layout=compact&theme=transparent&bg_color=003973&border_color=00E5FF&title_color=ffffff&text_color=ffffff&langs_count=8&custom_title=💻%20Tecnologias%20Mais%20Utilizadas"/>
   </a>
 
 </div>
+
 
 
 # Connect with me
