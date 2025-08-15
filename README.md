@@ -48,7 +48,7 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 
 # Git statisc
 
-<table>
+<table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
       <a href="https://github.com/Debug-Matheus">
@@ -63,6 +63,7 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
     </td>
   </tr>
 </table>
+
 
 
 
