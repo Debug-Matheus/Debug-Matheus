@@ -56,10 +56,11 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 
   <!-- Linguagens mais usadas -->
   <a href="https://github.com/Debug-Matheus">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debug-Matheus&layout=compact&langs_count=6&theme=transparent&bg_color=003973&border_color=00E5FF&title_color=ffffff&text_color=ffffff&custom_title=💻%20Tecnologias%20Mais%20Utilizadas"/>
+    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debug-Matheus&layout=compact&langs_count=4&theme=transparent&bg_color=003973&border_color=00E5FF&title_color=ffffff&text_color=ffffff&custom_title=💻%20Tecnologias%20Mais%20Utilizadas"/>
   </a>
 
 </div>
+
 
 
 
