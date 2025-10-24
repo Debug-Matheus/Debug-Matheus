@@ -45,7 +45,8 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 
 # Operating System Experience
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Linux](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=Linux&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+
 
 # Git statisc
 
