@@ -48,7 +48,7 @@ Tenho como meta futura conquistar uma oportunidade de trabalhar no exterior, amp
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 
 
-# 📊 Git Stats
+# Git Stats
 
 <p align="center">
   <a href="https://github.com/Debug-Matheus">
